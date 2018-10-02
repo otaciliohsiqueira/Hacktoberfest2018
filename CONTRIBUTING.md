@@ -222,4 +222,7 @@
 - Bio: computer science student having aspiration in frontend web development.
 -Programming Language: Javascript
 
+#### Name: [Stephen Sladek](https://github.com/stanecobalt)
+- Bio: computer information system student who likes web dev and virtual reality.
+- Programming Language: C#, C, C++, JavaScript
 

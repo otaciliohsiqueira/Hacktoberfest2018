@@ -249,3 +249,7 @@
 ### Name [Harikrushna Vanpariya](https://github.com/hgvanpariya)
 - Bio: I'm Web Java Developer with Experience in Eclipse RCP.
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
+
+### Name [Mounika Smitha](https://github.com/kallepallimounikasmitha)
+- Bio: I'm a Open Source Contributor, Django developer with expertise in Python.
+- Programming Language: C, C++, Java, Python, Django, Nodejs, Javascript.

@@ -251,6 +251,10 @@
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
 
 #### Name [Yusuf Adefolahan ](https://github.com/sanxy)
+- Bio: I'm an Android Developer 
+- Programming Language: Java
+
+#### Name [Yusuf Adefolahan ](https://github.com/sanxy)
 - Bio: I'm an Android  Developer 
 - Programming Language: Java
 

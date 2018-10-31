@@ -254,6 +254,10 @@
 - Bio: I'm Web Java Developer with Experience in Eclipse RCP.
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
 
+#### Name: [Stephen Sladek](https://github.com/stanecobalt)
+- Bio: computer information system student who likes web dev and virtual reality.
+- Programming Language: C#, C, C++, JavaScript
+
 #### Name [Yusuf Adefolahan ](https://github.com/sanxy)
 - Bio: I'm an Android Developer 
 - Programming Language: Java

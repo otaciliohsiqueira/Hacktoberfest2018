@@ -230,7 +230,7 @@
 - Bio: Computer Science Undergraduate 
 - Programming Language: Python
 
-### Name: [Amber Cyr](https://github.com/SheW0lf)
+#### Name: [Amber Cyr](https://github.com/SheW0lf)
  - Bio: A scientist who moonlights as a web developer
  - Programming Language: Javascript, Python, R
 
@@ -242,14 +242,58 @@
 - Bio: Student Love Android, IOS
 - Programming Language: Java, c++
 
-### Name [Stu Wares](https://github.com/StuWares)
+#### Name [Stu Wares](https://github.com/StuWares)
 - Bio: Tech support by day, learning to code at night!
 - Programming Language: JavaScript, Python, Rust
 
-### Name [Harikrushna Vanpariya](https://github.com/hgvanpariya)
+#### Name [Harikrushna Vanpariya](https://github.com/hgvanpariya)
 - Bio: I'm Web Java Developer with Experience in Eclipse RCP.
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
 
 #### Name: [Prathima](https://github.com/Prathimabedadala)
 - Bio: Student who loves to code and solve puzzles,Problemsolver
 - Programming Language: C++, Java, C, HTML
+
+#### Name: [Prasun M](https://github.com/rupna100)
+- Bio: I'm a Geek, life is unique.
+- Programming Language: Python, JavaScript, HTML
+
+#### Name [Padmavathi Patnala](https://github.com/PadmavathiPatnala)
+- Bio: Computer Science Undergraduate.
+- Programming Language: Java, SQL , c.
+
+#### Name [divijary](https://github.com/divijary)
+- Bio: Computer Science Under Graduate
+- Programming Language: Java,c,sql,html.
+
+#### Name [Sowjanya Mupparaju](https://github.com/mldssowji)
+- Bio: Computer Science Undergraduate.
+- Programming Language: Java, c , c++ , SQL.
+
+#### Name [Prathyeka Reddy](https://github.com/prathyekareddy)
+- Bio: Computer Science Under Graduate
+- Programming Language: C, java, SQL, Python
+
+#### Name [Harika Kothuri](https://github.com/harikakothuri)
+- Bio: Computer Science Undergraduate. 
+- Programming Language: C, Java, Sql.
+
+#### Name [Lavanyareddyu5](https://github.com/Lavanyareddyu5)
+- Bio: Computer Science under graduate.
+- Programming Language: Java,c,c++,sql,packet tracer,html.
+
+#### Name [Josh Caulfield](https://github.com/coolfield)
+- Bio: Learning Python to build web apps
+- Programming Language: Python, Django, JavaScript
+
+#### Name [Max Wendel Ferreira Freire Araújo](https://github.com/Max-Wendel-UFC)
+- Bio: I'm student by Analyst Sistem from University Federal of Ceará (UFC).
+- Programming Language: Java, Python, JavaScript, C, TypeScript, Kotlin, Prolog.
+
+#### Name: [Jacob O'Hare](https://github.com/antisage)
+- Bio: Computer Science Undergraduate 
+- Programming Language: Whitespace
+
+#### Name [Panusitt Khuenkham](https://github.com/bamossza)
+- Bio: I'm Web Java Developer with Experience in IDE Intelij.
+- Programming Language: Java, Springboot, REST API, Angular, PHP

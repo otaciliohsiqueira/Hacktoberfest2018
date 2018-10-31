@@ -78,4 +78,4 @@ console.log('Hello, Github world Let's start a wonderful Coding!');
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the lanuage you chose in your comments too!
 
-## Happy Hacking ;)
+## Happy Codding ;)

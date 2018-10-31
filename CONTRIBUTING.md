@@ -238,6 +238,10 @@
 - Bio: Senior Software Engineer - Android enthusiast
 - Programming Language: Java, Kotlin
 
+#### Name: [Dan Young](https://github.com/ytmnd)
+- Bio: Just a big old woofer
+- Programming Language: Python
+
 #### Name: [Mamad ali](https://github.com/mamadali)
 - Bio: Student Love Android, IOS
 - Programming Language: Java, c++

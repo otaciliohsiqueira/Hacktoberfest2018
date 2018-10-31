@@ -250,6 +250,10 @@
 - Bio: I'm Web Java Developer with Experience in Eclipse RCP.
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
 
+#### Name [Padmavathi Patnala](https://github.com/PadmavathiPatnala)
+- Bio: Computer Science Undergraduate.
+- Programming Language: Java, SQL , c.
+
 #### Name [divijary](https://github.com/divijary)
 - Bio: Computer Science Under Graduate
 - Programming Language: Java,c,sql,html.

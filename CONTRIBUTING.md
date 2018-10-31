@@ -250,6 +250,10 @@
 - Bio: I'm Web Java Developer with Experience in Eclipse RCP.
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
 
+#### Name [Sowjanya Mupparaju](https://github.com/mldssowji)
+- Bio: Computer Science Undergraduate.
+- Programming Language: Java, c , c++ , SQL.
+
 #### Name [Prathyeka Reddy](https://github.com/prathyekareddy)
 - Bio: Computer Science Under Graduate
 - Programming Language: C, java, SQL, Python

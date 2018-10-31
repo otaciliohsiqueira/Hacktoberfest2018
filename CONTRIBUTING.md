@@ -250,6 +250,10 @@
 - Bio: I'm Web Java Developer with Experience in Eclipse RCP.
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
 
+#### Name: [Prathima](https://github.com/Prathimabedadala)
+- Bio: Student who loves to code and solve puzzles,Problemsolver
+- Programming Language: C++, Java, C, HTML
+
 #### Name: [Prasun M](https://github.com/rupna100)
 - Bio: I'm a Geek, life is unique.
 - Programming Language: Python, JavaScript, HTML

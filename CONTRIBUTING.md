@@ -317,3 +317,7 @@
 #### Name [Panusitt Khuenkham](https://github.com/bamossza)
 - Bio: I'm Web Java Developer with Experience in IDE Intelij.
 - Programming Language: Java, Springboot, REST API, Angular, PHP
+
+#### Name [Otacilio Siqueira](https://github.com/otaciliohsiqueira)
+- Bio: I'm Mobile Developer with Experience in React and Android Studio.
+- Programming Language: Java, Springboot, Javascript, Python, Kotlin
